@@ -2,6 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/130953763?v=4"/>
 </div>
 <h1 align="center">NX Studio, a software company</h1>
+<p align="center"><i>We're a dynamic software company, turning visions into reality — one line of code at a time.</i></p>
 
 ### About NxStudio
 NxStudio is a start-up company that aims to provide computational solutions to the general public, schools, and small businesses.
